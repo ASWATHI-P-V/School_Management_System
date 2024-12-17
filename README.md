@@ -80,14 +80,4 @@ git clone https://github.com/ASWATHI-P-V/School_Management_System
 cd School_Management
 
 
-###**Future Enhancements**
 
-Implement advanced reporting for admin dashboards.
-Add automated email notifications for due payments and book returns.
-Integrate a payment gateway for fee payments.
-Enhance the user interface with modern front-end libraries.
-
-
-###**Contributors**
-
-Aswathi PV – Developer
